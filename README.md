@@ -10,7 +10,7 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<div align="center">
 <img 
     align="left" 
     alt="HTML"
@@ -83,7 +83,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+</div>
 <br/>
 <br/>
 
