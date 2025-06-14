@@ -1,3 +1,4 @@
+<div align="center">
 #  Mateus Leoni
 **`Desenvolvedor Front-End`**
 
@@ -10,7 +11,6 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<div align="center">
 <img 
     align="left" 
     alt="HTML"
