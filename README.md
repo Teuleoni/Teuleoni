@@ -2,7 +2,7 @@
 **`Desenvolvedor Front-End`**
 
 👋 Olá! Me chamo Mateus Leoni, tenho 26 anos e sou apaixonado por tecnologia. <br>
-📈 Tenho experiência no mercado financeiro, onde atuo negociando em contas particulares.<br>
+📈 Tenho experiência no mercado financeiro, onde atuei negociando em contas particulares.<br>
 💻 Atualmente, estou me dedicando à transição para a área de programação e desenvolvimento de software.<br>
 🚀 Estou em constante aprendizado e buscando aplicar meus conhecimentos em projetos práticos e desafiadores.<br>
 
